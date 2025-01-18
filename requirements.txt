@@ -96,7 +96,7 @@ pycparser==2.21
 pydantic==2.5.3
 pydantic_core==2.14.6
 Pygments==2.15.1
-pyOpenSSL==23.2.0
+pyOpenSSL==24.0.0
 PyQt5==5.15.10
 PyQt5-sip==12.13.0
 PySocks==1.7.1
